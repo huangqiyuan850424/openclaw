@@ -1,13 +1,3 @@
-你可以直接在你的仓库新增一个：
-
-```text
-/docs/deployment-thailand.md
-```
-
-内容可以先用下面这版（适合 OpenClaw + 泰国 VPS + Telegram）：
-
----
-
 # OpenClaw Thailand Deployment Guide 🇹🇭
 
 适用于：
